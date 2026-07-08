@@ -17,7 +17,7 @@ const yusuf = {
   name:              "Mohammed Yusuf A",
   location:          "Chennai, India 🇮🇳",
   degree:            "B.Sc. Computer Science — Shree Chandra Prabu Jain College (2024)",
-  stack:             ["React.js", "TypeScript", "Redux Toolkit", "Tailwind CSS", "JavaScript (ES6+)"],
+  stack:             ["React.js", "TypeScript", "Redux Toolkit", "Tailwind CSS","Material UI", "JavaScript (ES6+)"],
   currentlyLearning: ["Next.js", "Node.js", "Advanced TypeScript", "System Design"],
   funFact:           "I debug with console.log and I'm not ashamed 😄",
   motto:             () => "Write clean code. Build real things. Learn every day.",
@@ -55,9 +55,11 @@ const yusuf = {
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
+
 **Styling & UI**
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Mui](https://img.shields.io/badge/Mui-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 **API & State**
