@@ -2,7 +2,7 @@
 
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Yusuf%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=React%20Frontend%20Developer%20%7C%20Redux%20Toolkit%20%7C%20Crafting%20Responsive%20Web%20Experiences&descAlignY=62&descSize=16)](https://github.com/MohammedYusuf23)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=React+Frontend+Developer+%F0%9F%9A%80;Redux+Toolkit+%7C+TypeScript+%7C+Tailwind+CSS;Building+Clean+%26+Responsive+UIs+%E2%9C%A8;REST+API+Integration+%7C+State+Management;Open+to+Opportunities+%F0%9F%92%BC)](https://github.com/MohammedYusuf23)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=React+Frontend+Developer+%F0%9F%9A%80;Redux+Toolkit+%7C+TypeScript+%7C+MaterialUI;Building+Clean+%26+Responsive+UIs+%E2%9C%A8;REST+API+Integration+%7C+State+Management;Open+to+Opportunities+%F0%9F%92%BC)](https://github.com/MohammedYusuf23)
 
 <img src="https://komarev.com/ghpvc/?username=MohammedYusuf23&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
 
@@ -17,7 +17,7 @@ const yusuf = {
   name:              "Mohammed Yusuf A",
   location:          "Chennai, India 🇮🇳",
   degree:            "B.Sc. Computer Science — Shree Chandra Prabu Jain College (2024)",
-  stack:             ["React.js", "TypeScript", "Redux Toolkit", "Tailwind CSS","Material UI", "JavaScript (ES6+)"],
+  stack:             ["React.js", "TypeScript", "Redux Toolkit", "TanStack Query" , "Tailwind CSS", "Material UI" , "JavaScript (ES6+)"],
   currentlyLearning: ["Next.js", "Node.js", "Advanced TypeScript", "System Design"],
   funFact:           "I debug with console.log and I'm not ashamed 😄",
   motto:             () => "Write clean code. Build real things. Learn every day.",
@@ -54,6 +54,7 @@ const yusuf = {
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
 
 **Styling & UI**
